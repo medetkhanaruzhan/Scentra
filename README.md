@@ -164,9 +164,9 @@ Make sure your `.env` and `environment.ts` API URLs match.
 
 | Name | Role |
 |---|---|
-| Medetkhan Aruzhan | Frontend — UI, routing, preference form |
-| Moldakan Nazerke | Backend — models, API, recommendation logic |
-| Kaztay Dauren | Full-stack — auth, integration, deployment setup |
+| Medetkhan Aruzhan | in progress  |
+| Moldakan Nazerke | in progress |
+| Kaztay Dauren | in progress |
 
 ---
 
