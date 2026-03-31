@@ -1,4 +1,4 @@
-# Scentra 🌸
+# Scentra 
 A perfume recommendation platform that matches fragrances to your personality and lifestyle.
 
 ---
