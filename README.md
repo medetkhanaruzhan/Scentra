@@ -170,6 +170,3 @@ Make sure your `.env` and `environment.ts` API URLs match.
 
 ---
 
-## Status
-
-Currently in development as a university project. Core features (auth, preferences, recommendations) are working. Catalog seeding and UI polish are in progress.
